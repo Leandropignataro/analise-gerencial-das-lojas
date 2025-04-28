@@ -1,0 +1,1 @@
+# analise-gerencial-das-lojas
