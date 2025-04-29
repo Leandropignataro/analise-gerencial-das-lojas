@@ -4,6 +4,6 @@
 
 **Estrutura do projeto e organização dos arquivos:** _Foram definidos 5 metricas para a analise_.
 
-**Exemplos de gráficos e insights obtidos:** _Todas as informações foram extraidas do banco de dados do cliente_ 
+**Exemplos de gráficos e insights obtidos:** _Todas as informações foram extraidas do banco de dados do cliente, com analises gerenciais graficas para melhor conclusão do projeto_ 
 
 **Instruções para executar o notebook:** _Ele pode ser executado no Colab_
